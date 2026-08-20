@@ -1,0 +1,14 @@
+{
+  "name": "1 Pro Agency",
+  "short_name": "1 Pro Agency",
+  "description": "Global business registration, AI automation, Shopify builds, sourcing, ad creatives and paid ads for non-resident founders.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#04120a",
+  "theme_color": "#04120a",
+  "icons": [
+    { "src": "assets/favicon-32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "assets/favicon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/logo-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
